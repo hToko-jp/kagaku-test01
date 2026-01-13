@@ -16187,7 +16187,7 @@ r.toString
 A.fR(r)
 q=a.i(0,"swipeEdge")
 q.toString
-return new A.ku(s,r,B.Du[A.fQ(q)])},
+return new A.ku(s,r,B.Dv[A.fQ(q)])},
 xf:function xf(a,b){this.a=a
 this.b=b},
 ku:function ku(a,b,c){this.a=a
@@ -17483,7 +17483,7 @@ if(a.as!==q)return q?-1:1
 return 0},
 arg(a,b){var s=A.Y(b).h("aa<1,cF>")
 s=A.X(new A.aa(b,new A.Sr(),s),s.h("aw.E"))
-return A.aqI(!0,s,a,B.E4,!0,B.Ax,null)},
+return A.aqI(!0,s,a,B.E5,!0,B.Ax,null)},
 aeg(a){var s
 try{a.co()}catch(s){a.FN()}a.w=B.Ro
 try{a.b3(A.az8())}catch(s){}},
@@ -17961,7 +17961,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 as2(a,b){var s
-if(a===b)return new A.C4(B.E3)
+if(a===b)return new A.C4(B.E4)
 s=A.c([],t.fJ)
 A.bQ()
 a.kA(new A.UQ(b,A.az(t.u),s))
@@ -22774,7 +22774,7 @@ CJ(){var s=this.Q
 s===$&&A.a()
 return s},
 qy(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.E0
+if(a<0||b<0)return B.E1
 s=this.a
 s===$&&A.a()
 s=s.a
@@ -22793,7 +22793,7 @@ l.push(new A.fL(n[0],n[1],n[2],n[3],B.hR[m]))}return l},
 dj(a){var s,r,q=this.a
 q===$&&A.a()
 s=q.a.getGlyphPositionAtCoordinate(a.a,a.b)
-r=B.Dw[J.an(s.affinity.value)]
+r=B.Dx[J.an(s.affinity.value)]
 return new A.aq(J.an(s.pos),r)},
 CN(a){var s=this.a
 s===$&&A.a()
@@ -23102,7 +23102,7 @@ A.lH.prototype={
 H(){return"CanvasKitVariant."+this.b}}
 A.Tj.prototype={
 gl5(){var s=this.b,r=s==null?null:s.canvasKitVariant
-return A.arp(B.DH,r==null?"auto":r)},
+return A.arp(B.DI,r==null?"auto":r)},
 gKB(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s==null?!1:s},
@@ -27211,7 +27211,7 @@ if(m.f!==B.kU){m.f=B.kU
 m.Hl()}}return m.d.a.PH(a)},
 Hl(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-PE(a){if(B.b.q(B.DQ,a))return this.f===B.ej
+PE(a){if(B.b.q(B.DR,a))return this.f===B.ej
 return!1}}
 A.T1.prototype={
 $0(){return new A.hA(Date.now(),0,!1)},
@@ -32979,7 +32979,7 @@ if(o>0)return s
 return null}}
 A.a6_.prototype={
 E(a,b){this.Fq(b,0,b.length,!1)},
-aQ(){this.Fq(B.DV,0,0,!0)}}
+aQ(){this.Fq(B.DW,0,0,!0)}}
 A.abG.prototype={
 Fq(a,b,c,d){var s=this.b.a4O(a,b,c,d)
 if(s!=null)this.a.mE(s,0,s.length,d)}}
@@ -37763,7 +37763,7 @@ n=o.e
 o=o.cx
 r=q.gZi()
 q.a.toString
-return new A.xX(p,p,p,new A.a9_(),p,p,p,p,p,n,B.Gf,p,p,p,B.E6,q.gZq(),o,p,B.Ms,s,p,r,p,p,B.l9,!1,!1,p,p,p,new A.me(q,t.bT))},
+return new A.xX(p,p,p,new A.a9_(),p,p,p,p,p,n,B.Gf,p,p,p,B.E7,q.gZq(),o,p,B.Ms,s,p,r,p,p,B.l9,!1,!1,p,p,p,new A.me(q,t.bT))},
 M(a){var s,r=null,q=A.Dr(!1,!1,this.UA(a),r,r,r,r,!0,r,r,r,new A.a90(),r,r)
 this.a.toString
 s=this.d
@@ -38071,7 +38071,7 @@ A.qd.prototype={
 H(){return"_CornerId."+this.b}}
 A.ju.prototype={}
 A.p1.prototype={
-iM(){var s,r,q,p=this,o=A.axN(B.DN,new A.Yh(p,p.b.gaL().a7(0,p.a.gaL()))),n=p.a
+iM(){var s,r,q,p=this,o=A.axN(B.DO,new A.Yh(p,p.b.gaL().a7(0,p.a.gaL()))),n=p.a
 n.toString
 s=o.a
 r=p.md(n,s)
@@ -41095,7 +41095,7 @@ gfE(){return A.azK()},
 zk(a,b,c,d,e,f){return A.aqu(a,b,c,d,e,f)}}
 A.EU.prototype={
 Ua(a){var s=t.Tr
-s=A.X(new A.aa(B.DL,new A.Zs(a),s),s.h("aw.E"))
+s=A.X(new A.aa(B.DM,new A.Zs(a),s),s.h("aw.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -44696,7 +44696,7 @@ OK(a){var s=this.b,r=s.a.c.CN(a.a7(0,s.gfi()))
 if(r==null||s.gfi().j(0,B.i))return r
 return new A.mf(r.a.dG(s.gfi()),r.b,r.c)},
 tq(){var s,r,q=this.b,p=q.gfi()
-if(!isFinite(p.a)||!isFinite(p.b))return B.E5
+if(!isFinite(p.a)||!isFinite(p.b))return B.E6
 s=q.f
 if(s==null){s=q.a.c.tq()
 q.f=s}if(p.j(0,B.i))r=s
@@ -51814,7 +51814,7 @@ break
 case 1:return A.P(q,r)}})
 return A.Q($async$xG,r)},
 Ws(a,b){var s,r,q,p
-if(a===b)return B.E_
+if(a===b)return B.E0
 s=A.c([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.kh(B.d7,a)
@@ -52992,7 +52992,7 @@ A.kv.prototype={}
 A.Fd.prototype={
 ja(a,b){var s,r,q,p,o,n=$.ac.al$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.r,r=0;r<2;++r){q=B.DR[r]
+for(s=t.r,r=0;r<2;++r){q=B.DS[r]
 p=n.e
 p.toString
 o=A.adJ(p,q,s)
@@ -56189,7 +56189,7 @@ j(a,b){var s=this
 if(b==null)return!1
 if(J.N(b)!==A.r(s))return!1
 return b instanceof A.dW&&b.a===s.a&&b.b==s.b&&b.d===s.d&&A.d1(null,null)},
-gt(a){return A.K(this.a,this.b,null,this.d,A.bE(B.E1),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+gt(a){return A.K(this.a,this.b,null,this.d,A.bE(B.E2),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.d.qb(B.h.kw(this.a,16).toUpperCase(),5,"0")+")"}}
 A.mj.prototype={
 bN(a){return!this.w.j(0,a.w)},
@@ -56937,7 +56937,7 @@ h=r&&e
 c=r?e:c.CW
 if(c==null)c=B.ij
 r=r&&e
-g=new A.ve(b,s,q,p,m,o,n,a,h===!0,a0,a1,i,d,l,k,j,c,new A.tF(e),B.DY,r===!0)
+g=new A.ve(b,s,q,p,m,o,n,a,h===!0,a0,a1,i,d,l,k,j,c,new A.tF(e),B.DZ,r===!0)
 if(!g.j(0,f.e))f.aK(new A.a9h(f,g))},
 L9(){if(this.d==null)this.mz()},
 Lb(){this.mz()},
@@ -57288,7 +57288,7 @@ r.K(0,s.O8(null,l))
 l.a.toString
 q=r.a
 p=0
-for(;!1;++p){o=B.DW[p]
+for(;!1;++p){o=B.DX[p]
 n=l.c
 n.toString
 m=new A.fl(o.zG(n),null,!0,B.j9,B.b3,new A.nP(new ($.Pm())(B.b3)),B.b3)
@@ -57642,7 +57642,7 @@ M(a){var s,r,q=this,p=null,o=q.gY4(),n=A.oJ(a),m=q.bn$,l=q.d
 l===$&&A.a()
 s=q.a.ay
 if(l.gb9()==null){r=q.gEx()
-r=J.oT(r.slice(0),A.Y(r).c)}else r=B.DX
+r=J.oT(r.slice(0),A.Y(r).c)}else r=B.DY
 return new A.mh(p,new A.cZ(new A.Z6(q,a),A.v1(B.bL,new A.BC(!1,A.aej(A.Dr(!0,p,A.a4Y(m,new A.pc(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.gZL(),p,p,o),p,t.w3),p)}}
 A.Z5.prototype={
 $1(a){var s=this.a.c
@@ -62864,7 +62864,7 @@ r.t_()
 return s.aU()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gxI(),p=0;p<s.length;s.length===r||(0,A.y)(s),++p)s[p].R(q)
-o.b=B.DZ
+o.b=B.E_
 o.y=!1
 o.dJ()},
 cH(a,b){return a.jY(b)},
@@ -63678,7 +63678,7 @@ g.p2=A.u(t.D2,q)
 p=g.p1
 s=s.c
 g.p1=A.u(s,q)
-for(o=0;o<4;++o){n=B.DF[o]
+for(o=0;o<4;++o){n=B.DG[o]
 m=f.a2Y(n)
 l=m==null?null:m.a
 k=p.i(0,n)
@@ -65519,7 +65519,7 @@ if(l==null)l=A.c([],t.s)
 o=m.nR("weak_items")
 if(o==null)o=A.c([],t.s)
 n=t.p2
-n=A.X(new A.aa(B.Ep,new A.a_R(l,o),n),n.h("aw.E"))
+n=A.X(new A.aa(B.Do,new A.a_R(l,o),n),n.h("aw.E"))
 q=n
 s=1
 break
@@ -65690,7 +65690,7 @@ d=A.aev(e?B.Bt:B.Bx,B.qk,g,64)
 e=e?"\u5f31\u70b9\u306f\u3042\u308a\u307e\u305b\u3093\uff01\n\u7d20\u6674\u3089\u3057\u3044\uff01":"\u3053\u306e\u30ab\u30c6\u30b4\u30ea\u306e\u554f\u984c\u306f\u3042\u308a\u307e\u305b\u3093\u3002"
 r=h.b
 return A.jU(A.oq(A.c([d,B.iY,A.eQ(e,A.a_(r).ok.w,B.bt),B.vN,A.Sy(B.w8,new A.a7S(r),g)],t.F),B.b5,B.dl,B.bT),g,g)}r=e.w
-if(r>=d)return A.jU(A.oq(A.c([B.P9,B.iY,A.Sy(B.w8,new A.a7T(h.b),g)],t.F),B.b5,B.dl,B.bT),g,g)
+if(r>=d)return A.jU(A.oq(A.c([B.Pa,B.iY,A.Sy(B.w8,new A.a7T(h.b),g)],t.F),B.b5,B.dl,B.bT),g,g)
 q=s[r]
 if(e.z.length===0){d=A.c([q.c],t.s)
 B.b.K(d,q.gAS())
@@ -65749,7 +65749,7 @@ if(r){if(q.a.d==="Review Weak Points")q.gqg().io($.By().gBn(),t.bd).qi(s.a)}else
 $S:0}
 A.DL.prototype={
 pb(a,b){var s=b.vG($.By(),t.qO),r=A.a_(a).ax,q=r.y2
-return A.ajR(A.aha(q==null?r.c:q,B.Pb),A.ahe(s,new A.Uy(),new A.Uz(),new A.UA()))}}
+return A.ajR(A.aha(q==null?r.c:q,B.P9),A.ahe(s,new A.Uy(),new A.Uz(),new A.UA()))}}
 A.Uy.prototype={
 $1(a){var s,r,q,p,o=A.u(t.N,t.S)
 for(s=J.c2(a),r=s.gS(a);r.n();){q=r.gI().e
@@ -65762,7 +65762,7 @@ $S:90}
 A.Uw.prototype={
 $2(a,b){var s,r,q,p,o=null,n=A.c([],t.F),m=this.a,l=m>0
 if(l){s=A.o9(12)
-n.push(new A.cu(B.AZ,A.adW(A.aiT(B.BA,new A.Ut(a),A.eQ("\u3042\u3068 "+m+" \u554f",o,o),B.Pa,B.BE),o,B.fU,o,o,new A.cd(s,B.jr)),o))}s=this.b
+n.push(new A.cu(B.AZ,A.adW(A.aiT(B.BA,new A.Ut(a),A.eQ("\u3042\u3068 "+m+" \u554f",o,o),B.Pb,B.BE),o,B.fU,o,o,new A.cd(s,B.jr)),o))}s=this.b
 r=A.i(s).h("eg<1,2>")
 q=this.c
 p=t.l7
@@ -66562,7 +66562,7 @@ p=l+("\n    "+o+": "+B.b.aY(A.c(p.split("\n"),q),"\n"+n)+",")}l=(s.a!==0?l+"\n  
 return l.charCodeAt(0)==0?l:l}}
 A.a_H.prototype={
 $1(a){var s,r,q,p=this.a.c.i(0,a)
-if(p==null)return B.E2
+if(p==null)return B.E3
 s=A.c([p.c],t.NK)
 r=p.b.gd3()
 q=t.nS
@@ -69875,7 +69875,7 @@ B.ye=new A.a50()
 B.X=new A.a51()
 B.bF=new A.a53()
 B.cA=new A.Hw(0,0,0,0)
-B.DY=s([],A.aj("w<RJ>"))
+B.DZ=s([],A.aj("w<RJ>"))
 B.Sg=new A.a57()
 B.e0=new A.HO()
 B.bG=new A.HP()
@@ -70323,12 +70323,151 @@ B.Rt=new A.jw(6,0.11)
 B.Rr=new A.jw(8,0.12)
 B.Rq=new A.jw(12,0.14)
 B.la=s([B.Rp,B.Ru,B.Rs,B.Rt,B.Rr,B.Rq],A.aj("w<jw>"))
+B.Em=s(["\u751f\u7269\u306e\u4f53\u5185\u3067\u8d77\u3053\u308b\u5316\u5b66\u53cd\u5fdc\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u91d1\u5c5e\u5143\u7d20\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u6c17\u4f53\u304a\u3088\u3073\u6db2\u4f53\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u70ad\u7d20\u3092\u542b\u3080\u5168\u3066\u306e\u5316\u5408\u7269\u3092\u6271\u3046\u5316\u5b66"],t.s)
+B.QP=new A.ag("100","\u7121\u6a5f\u5316\u5b66\uff08Inorganic Chemistry\uff09\u306e\u5b9a\u7fa9\u3068\u3057\u3066\u6700\u3082\u9069\u5207\u306a\u3082\u306e\u306f\uff1f","\u6709\u6a5f\u5316\u5408\u7269\uff08\u70ad\u7d20\u539f\u5b50\u3092\u9aa8\u683c\u3068\u3059\u308b\u5316\u5408\u7269\uff09\u4ee5\u5916\u306e\u3059\u3079\u3066\u306e\u7269\u8cea\u3092\u6271\u3046\u5316\u5b66",B.Em,"\u57fa\u790e\u77e5\u8b58\u30fb\u7269\u8cea",!1,!1)
+B.Du=s(["\u7d042\u5272","\u7d045\u5272","\u7d049\u5272","\u7d041\u5272"],t.s)
+B.Qy=new A.ag("101","\u5143\u7d20\u306e\u5468\u671f\u8868\u306b\u304a\u3044\u3066\u3001\u91d1\u5c5e\u5143\u7d20\u306f\u304a\u3088\u305d\u4f55\u5272\u3092\u5360\u3081\u308b\u304b\uff1f","\u7d048\u5272",B.Du,"\u7121\u6a5f\u5316\u5b66\u306e\u57fa\u790e",!1,!1)
+B.EB=s(["\u6709\u6a5f\u5316\u5b66\u306f\u56fa\u4f53\u3092\u6271\u3044\u3001\u7121\u6a5f\u5316\u5b66\u306f\u6db2\u4f53\u3092\u6271\u3046","\u6709\u6a5f\u5316\u5b66\u306f\u5b9f\u9a13\u3092\u884c\u308f\u305a\u3001\u7121\u6a5f\u5316\u5b66\u306f\u5b9f\u9a13\u3092\u884c\u3046","\u6709\u6a5f\u5316\u5b66\u306f\u91d1\u5c5e\u3092\u542b\u307e\u306a\u3044\u304c\u3001\u7121\u6a5f\u5316\u5b66\u306f\u91d1\u5c5e\u306e\u307f\u3092\u542b\u3080","\u6709\u6a5f\u5316\u5b66\u306f\u53e4\u4ee3\u304b\u3089\u3042\u308a\u3001\u7121\u6a5f\u5316\u5b66\u306f\u73fe\u4ee3\u306e\u5b66\u554f\u3067\u3042\u308b"],t.s)
+B.QQ=new A.ag("102","\u6709\u6a5f\u5316\u5b66\u3068\u7121\u6a5f\u5316\u5b66\u306e\u9055\u3044\u306b\u3064\u3044\u3066\u6b63\u3057\u3044\u8a18\u8ff0\u306f\uff1f","\u6709\u6a5f\u5316\u5b66\u306f\u70ad\u7d20\u306e\u7d50\u5408\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u304c\u3001\u7121\u6a5f\u5316\u5b66\u306f\u5168\u5143\u7d20\u306e\u5e83\u7bc4\u306a\u7d50\u5408\u3092\u6271\u3046",B.EB,"\u7121\u6a5f\u5316\u5b66\u306e\u57fa\u790e",!1,!1)
+B.D0=s(["Fe3O4","FeO","FeS2","FeCO3"],t.s)
+B.R9=new A.ag("110","\u8d64\u9244\u9271\uff08Hematite\uff09\u306e\u4e3b\u6210\u5206\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Fe2O3",B.D0,"\u57fa\u790e\u77e5\u8b58\u30fb\u7269\u8cea",!1,!1)
+B.D_=s(["Fe2O3","FeOHI","FeS","FeSO4"],t.s)
+B.Rg=new A.ag("111","\u78c1\u9244\u9271\uff08Magnetite\uff09\u306e\u4e3b\u6210\u5206\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Fe3O4",B.D_,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.CZ=s(["\u9244 (Fe)","\u9285 (Cu)","\u4e9c\u925b (Zn)","\u30de\u30b0\u30cd\u30b7\u30a6\u30e0 (Mg)"],t.s)
+B.Qk=new A.ag("112","\u30dc\u30fc\u30ad\u30b5\u30a4\u30c8\uff08Bauxite\uff09\u306f\u4f55\u306e\u539f\u6599\u9271\u77f3\u304b\uff1f","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al)",B.CZ,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.Dt=s(["\u786b\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaSO4)","\u6c34\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (Ca(OH)2)","\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaO)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)"],t.s)
+B.QJ=new A.ag("113","\u77f3\u7070\u77f3\uff08Limestone\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)",B.Dt,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.CY=s(["Cu2S","CuS","CuO","CuSO4"],t.s)
+B.QD=new A.ag("114","\u9ec4\u9285\u9271\uff08Chalcopyrite\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","CuFeS2",B.CY,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.Ew=s(["\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)","\u30ea\u30f3\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (Ca3(PO4)2)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)","\u30b1\u30a4\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaSiO3)"],t.s)
+B.QN=new A.ag("115","\u86cd\u77f3\uff08Fluorite\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u30d5\u30c3\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaF2)",B.Ew,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.CN=s(["\u540c\u4f4d\u4f53","\u7570\u6027\u4f53","\u591a\u5f62\uff08\u30dd\u30ea\u30e2\u30eb\u30d5\uff09","\u985e\u7e01\u4f53"],t.s)
+B.QS=new A.ag("116","\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u3068\u9ed2\u925b\uff08\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\uff09\u306e\u95a2\u4fc2\u3092\u4f55\u3068\u3044\u3046\u304b\uff1f","\u540c\u7d20\u4f53",B.CN,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
+B.Dd=s(["Na2CO3","NaHCO3","KCl","NaOH"],t.s)
+B.QA=new A.ag("120","\u98df\u5869\u306e\u4e3b\u6210\u5206\u3067\u3042\u308b\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u306e\u5316\u5b66\u5f0f\u306f\uff1f","NaCl",B.Dd,"\u57fa\u790e\u77e5\u8b58\u30fb\u7269\u8cea",!1,!1)
+B.DE=s(["CaSO4\u30fb1/2H2O","CaSO4","CaCO3","CaCl2\u30fb6H2O"],t.s)
+B.R1=new A.ag("121","\u77f3\u818f\uff08Gypsum\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","CaSO4\u30fb2H2O",B.DE,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.D2=s(["CaSO4\u30fb2H2O","CaSO4","CaO","Ca(OH)2"],t.s)
+B.QI=new A.ag("122","\u713c\u304d\u77f3\u818f\u306e\u5316\u5b66\u5f0f\u306f\uff1f","CaSO4\u30fb1/2H2O",B.D2,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.De=s(["Na2CO3","NaOH","NaCl","Na2SO4"],t.s)
+B.Qe=new A.ag("123","\u91cd\u66f9\uff08\u30d9\u30fc\u30ad\u30f3\u30b0\u30d1\u30a6\u30c0\u30fc\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","NaHCO3",B.De,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.Df=s(["NaHCO3","NaOH","Na2O","Na2SO4"],t.s)
+B.Qu=new A.ag("124","\u30bd\u30fc\u30c0\u7070\uff08\u70ad\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Na2CO3",B.Df,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.Eu=s(["\u6c34 (H2O)","\u7a92\u7d20 (N2)","\u9178\u7d20 (O2)","\u30a2\u30f3\u30e2\u30cb\u30a2 (NH3)"],t.s)
+B.QL=new A.ag("125","\u30c9\u30e9\u30a4\u30a2\u30a4\u30b9\u306f\u4f55\u304c\u56fa\u4f53\u306b\u306a\u3063\u305f\u3082\u306e\u304b\uff1f","\u4e8c\u9178\u5316\u70ad\u7d20 (CO2)",B.Eu,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.Dp=s(["Al2(SO4)3","K2SO4","Al(OH)3","NaAl(SO4)2\u30fb12H2O"],t.s)
+B.QW=new A.ag("126","\u30df\u30e7\u30a6\u30d0\u30f3\uff08Alum\uff09\u306e\u5316\u5b66\u5f0f\u3067\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","AlK(SO4)2\u30fb12H2O",B.Dp,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
+B.Cc=s(["\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u30ae\u9178\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b"],t.s)
+B.QK=new A.ag("1","\u30a2\u30f3\u30e2\u30cb\u30a2\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u6c34\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u3092\u6df7\u5408\u3057\u3066\u52a0\u71b1",B.Cc,"\u6c17\u4f53\u3068\u88fd\u6cd5",!1,!1)
+B.DK=s(["\u786b\u9ec4\u3092\u7a7a\u6c17\u4e2d\u3067\u71c3\u713c\u3055\u305b\u308b","\u4e9c\u786b\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u71b1\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u306b\u6fc3\u5869\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b"],t.s)
+B.Qs=new A.ag("2","\u786b\u5316\u6c34\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u786b\u5316\u9244(II)\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b",B.DK,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.DH=s(["\u3055\u3089\u3057\u7c89\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u6c34\u6eb6\u6db2\u3092\u96fb\u6c17\u5206\u89e3\u3059\u308b","\u30d5\u30c3\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u4e9c\u785d\u9178\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u6c34\u6eb6\u6db2\u3092\u52a0\u71b1\u3059\u308b"],t.s)
+B.QR=new A.ag("3","\u5869\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u306b\u6fc3\u5869\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.DH,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.Da=s(["\u77f3\u7070\u77f3\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u70ad\u7d20\u3092\u4e0d\u5b8c\u5168\u71c3\u713c\u3055\u305b\u308b","\u30b7\u30e5\u30a6\u9178\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b","\u30e1\u30bf\u30f3\u3092\u9ad8\u6e29\u3067\u6c34\u84b8\u6c17\u3068\u53cd\u5fdc\u3055\u305b\u308b"],t.s)
+B.Rb=new A.ag("4","\u4e00\u9178\u5316\u70ad\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u30ae\u9178\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.Da,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.Et=s(["\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u904e\u9178\u5316\u6c34\u7d20\u6c34\u306b\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u3092\u52a0\u3048\u308b","\u9178\u5316\u6c34\u9280(II)\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b","\u70ad\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u306b\u6c34\u3092\u52a0\u3048\u308b"],t.s)
+B.Qp=new A.ag("5","\u6c34\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b",B.Et,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.Cd=s(["\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u786b\u5316\u9244(II)\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u6c34\u9178\u5316Ca\u3092\u52a0\u71b1","\u904e\u9178\u5316\u6c34\u7d20\u6c34\u3092\u5206\u89e3\u3059\u308b"],t.s)
+B.Qw=new A.ag("50","\u4e8c\u9178\u5316\u786b\u9ec4\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.Cd,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.EC=s(["\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u4e9c\u785d\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u52a0\u71b1","\u30a2\u30f3\u30e2\u30cb\u30a2\u3092\u767d\u91d1\u89e6\u5a92\u3067\u9178\u5316\u3059\u308b"],t.s)
+B.Qi=new A.ag("51","\u4e8c\u9178\u5316\u7a92\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u6fc3\u785d\u9178\u3092\u52a0\u3048\u308b",B.EC,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.DU=s(["\u9285\u306b\u6fc3\u785d\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u30a2\u30f3\u30e2\u30cb\u30a2\u3092\u767d\u91d1\u89e6\u5a92\u3067\u9178\u5316\u3059\u308b","\u785d\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b"],t.s)
+B.R7=new A.ag("52","\u4e00\u9178\u5316\u7a92\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b",B.DU,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
+B.ED=s(["\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5","\u63a5\u89e6\u6cd5","\u30bd\u30eb\u30d9\u30fc\u6cd5","\u30a2\u30f3\u30e2\u30cb\u30a2\u30fb\u30bd\u30fc\u30c0\u6cd5"],t.s)
+B.QX=new A.ag("6","\u30a2\u30f3\u30e2\u30cb\u30a2\u306e\u5de5\u696d\u7684\u88fd\u6cd5\u306e\u540d\u79f0\u306f\uff1f","\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5",B.ED,"\u6c17\u4f53\u3068\u88fd\u6cd5",!1,!1)
+B.Dw=s(["\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5","\u63a5\u89e6\u6cd5","\u30db\u30fc\u30eb\u30fb\u30a8\u30eb\u30fc\u6cd5","\u6eb6\u878d\u5869\u96fb\u89e3\u6cd5"],t.s)
+B.R5=new A.ag("7","\u785d\u9178\u306e\u5de5\u696d\u7684\u88fd\u6cd5\u306e\u540d\u79f0\u306f\uff1f","\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5",B.Dw,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
+B.C9=s(["\u767d\u91d1 (Pt)","\u56db\u9178\u5316\u4e09\u9244 (Fe3O4)","\u9244 (Fe)","\u30cb\u30c3\u30b1\u30eb (Ni)"],t.s)
+B.Rf=new A.ag("8","\u63a5\u89e6\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u89e6\u5a92\u306f\uff1f","\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)",B.C9,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
+B.Dr=s(["\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)","\u767d\u91d1 (Pt)","\u9285 (Cu)","\u9178\u5316\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al2O3)"],t.s)
+B.QE=new A.ag("9","\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u4e3b\u89e6\u5a92\u306f\uff1f","\u56db\u9178\u5316\u4e09\u9244 (Fe3O4)",B.Dr,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
+B.Ec=s(["\u9244 (Fe)","\u30cb\u30c3\u30b1\u30eb (Ni)","\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)","\u30d1\u30e9\u30b8\u30a6\u30e0 (Pd)"],t.s)
+B.Qo=new A.ag("10","\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u89e6\u5a92\u306f\uff1f","\u767d\u91d1 (Pt)",B.Ec,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
+B.Ep=s(["\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0 (NH4Cl)","\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaO)"],t.s)
+B.Qj=new A.ag("60","\u30a2\u30f3\u30e2\u30cb\u30a2\u30fb\u30bd\u30fc\u30c0\u6cd5(\u30bd\u30eb\u30d9\u30fc\u6cd5)\u3067\u306e\u4e2d\u9593\u751f\u6210\u7269\u3067\u3001\u71b1\u5206\u89e3\u3057\u3066\u70ad\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u5f97\u308b\u306e\u306f\uff1f","\u70ad\u9178\u6c34\u7d20\u30ca\u30c8\u30ea\u30a6\u30e0 (NaHCO3)",B.Ep,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
+B.DL=s(["\u6de1\u9ec4\u8272","\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
+B.R8=new A.ag("11","AgCl \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u767d\u8272",B.DL,"\u6c88\u6bbf\u3068\u691c\u51fa",!1,!1)
+B.Ca=s(["\u767d\u8272","\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
+B.Qr=new A.ag("12","AgBr \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u6de1\u9ec4\u8272",B.Ca,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.Db=s(["\u767d\u8272","\u6de1\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
+B.Qt=new A.ag("13","AgI \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.Db,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.Ei=s(["\u7dd1\u767d\u8272","\u767d\u8272","\u9ed2\u8272","\u9752\u767d\u8272"],t.s)
+B.QC=new A.ag("14","Fe(OH)3 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u8d64\u8910\u8272",B.Ei,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.D3=s(["\u767d\u8272","\u9ec4\u8272","\u6de1\u7d05\u8272","\u9752\u8272"],t.s)
+B.R4=new A.ag("15","CuS \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ed2\u8272",B.D3,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.D7=s(["\u9ed2\u8272","\u9ec4\u8272","\u6de1\u7d05\u8272","\u8d64\u8910\u8272"],t.s)
+B.Rc=new A.ag("16","ZnS \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u767d\u8272",B.D7,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.Dq=s(["\u8d64\u8272","\u767d\u8272","\u9ed2\u8272","\u8910\u8272"],t.s)
+B.QY=new A.ag("17","PbCrO4 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.Dq,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.Ea=s(["\u9ec4\u8272","\u767d\u8272","\u9ed2\u8272","\u6de1\u9ec4\u8272"],t.s)
+B.Qd=new A.ag("70","Ag2CrO4 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u8d64\u8910\u8272",B.Ea,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.C8=s(["\u9ed2\u8272","\u8d64\u8272","\u767d\u8272","\u6a59\u8272"],t.s)
+B.Qg=new A.ag("71","CdS (\u786b\u5316\u30ab\u30c9\u30df\u30a6\u30e0)\u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.C8,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.Dc=s(["\u9ed2\u8272","\u767d\u8272","\u9ec4\u8272","\u7dd1\u8272"],t.s)
+B.Qq=new A.ag("72","MnS (\u786b\u5316\u30de\u30f3\u30ac\u30f3(II))\u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u6de1\u6843\u8272 (\u8089\u8272)",B.Dc,"\u6c88\u6bbf\u3068\u8272",!1,!1)
+B.D8=s(["\u8d64\u8272","\u6a59\u8272","\u6df1\u8d64\u8272","\u9ec4\u7dd1\u8272"],t.s)
+B.QT=new A.ag("18","\u30ca\u30c8\u30ea\u30a6\u30e0(Na)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.D8,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.Es=s(["\u9ec4\u8272","\u6a59\u8272","\u9752\u7dd1\u8272","\u6df1\u8d64\u8272"],t.s)
+B.QO=new A.ag("19","\u30ab\u30ea\u30a6\u30e0(K)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u8d64\u7d2b\u8272",B.Es,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.Ex=s(["\u9ec4\u7dd1\u8272","\u8d64\u7d2b\u8272","\u7d05\u8272","\u6a59\u8272"],t.s)
+B.R2=new A.ag("20","\u9285(Cu)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9752\u7dd1\u8272",B.Ex,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.CX=s(["\u9ec4\u8272","\u6a59\u8272","\u9752\u7dd1\u8272","\u9ec4\u7dd1\u8272"],t.s)
+B.QM=new A.ag("21","\u30ea\u30c1\u30a6\u30e0(Li)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u8d64\u8272",B.CX,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.Ed=s(["\u6df1\u8d64\u8272","\u6a59\u8d64\u8272","\u9752\u7dd1\u8272","\u8d64\u8272"],t.s)
+B.QB=new A.ag("22","\u30d0\u30ea\u30a6\u30e0(Ba)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9ec4\u7dd1\u8272",B.Ed,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.Ev=s(["\u8d64\u8272","\u9ec4\u7dd1\u8272","\u6df1\u8d64\u8272","\u9ec4\u8272"],t.s)
+B.Qc=new A.ag("23","\u30ab\u30eb\u30b7\u30a6\u30e0(Ca)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u6a59\u8d64\u8272",B.Ev,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.DT=s(["\u6a59\u8d64\u8272","\u8d64\u8272","\u9ec4\u7dd1\u8272","\u8d64\u7d2b\u8272"],t.s)
+B.Rd=new A.ag("24","\u30b9\u30c8\u30ed\u30f3\u30c1\u30a6\u30e0(Sr)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u6df1\u8d64\u8272",B.DT,"\u708e\u8272\u53cd\u5fdc",!1,!1)
+B.D4=s(["Zn, Pb, Sn","Pt, Au, Ag","Cu, Ag, Hg","Mg, Al, Zn"],t.s)
+B.Re=new A.ag("25","\u6fc3\u785d\u9178\u306b\u5165\u308c\u3066\u3082\u4e0d\u52d5\u614b\u3068\u306a\u308a\u6eb6\u3051\u306a\u3044\u91d1\u5c5e\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe, Ni, Al",B.D4,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.En=s(["Fe, Ni, Co","Cu, Ag, Au","Na, K, Li","Mg, Ca, Ba"],t.s)
+B.Qz=new A.ag("26","\u4e21\u6027\u5143\u7d20\uff08\u9178\u3068\u3082\u5869\u57fa\u3068\u3082\u53cd\u5fdc\u3059\u308b\uff09\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Al, Zn, Sn, Pb",B.En,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.Cy=s(["\u9244(Fe)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0(Al)\u306b\u9285(Cu)\u3092\u30e1\u30c3\u30ad"],t.s)
+B.R0=new A.ag("27","\u30c8\u30bf\u30f3\u306f\u4f55\u306e\u5408\u91d1\uff1f","\u9244(Fe)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad",B.Cy,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.DN=s(["\u9244(Fe)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u925b(Pb)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad"],t.s)
+B.QG=new A.ag("28","\u30d6\u30ea\u30ad\u306f\u4f55\u306e\u5408\u91d1\uff1f","\u9244(Fe)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad",B.DN,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.Ef=s(["\u9244 (Fe)","\u9285 (Cu)","\u30c1\u30bf\u30f3 (Ti)","\u30de\u30b0\u30cd\u30b7\u30a6\u30e0 (Mg)"],t.s)
+B.R_=new A.ag("29","\u30b8\u30e5\u30e9\u30eb\u30df\u30f3\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al)",B.Ef,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.D6=s(["\u9285(Cu)\u3068\u4e9c\u925b(Zn)","\u9285(Cu)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u30bf\u30f3\u30b0\u30b9\u30c6\u30f3(W)\u3068\u70ad\u7d20(C)","\u9244(Fe)\u3068\u30af\u30ed\u30e0(Cr)"],t.s)
+B.Qb=new A.ag("30","\u9752\u9285\uff08\u30d6\u30ed\u30f3\u30ba\uff09\u306e\u7d44\u6210\u306f\uff1f","\u9285(Cu)\u3068\u30b9\u30ba(Sn)",B.D6,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.D1=s(["\u9285(Cu)\u3068\u30b9\u30ba(Sn)","\u9285(Cu)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u9244(Fe)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0(Al)\u3068\u9285(Cu)"],t.s)
+B.Qf=new A.ag("31","\u9ec4\u9285\uff08\u771f\u936e\u3001\u30d6\u30e9\u30b9\uff09\u306e\u7d44\u6210\u306f\uff1f","\u9285(Cu)\u3068\u4e9c\u925b(Zn)",B.D1,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
+B.Ek=s(["\u9752\u767d\u8272\u3001\u6b63\u56db\u9762\u4f53","\u9752\u8272\u3001\u6b63\u516b\u9762\u4f53","\u8d64\u8910\u8272\u3001\u76f4\u7dda\u5f62","\u7121\u8272\u3001\u6b63\u56db\u9762\u4f53"],t.s)
+B.R3=new A.ag("80","[Cu(NH3)4]2+ (\u30c6\u30c8\u30e9\u30a2\u30f3\u30df\u30f3\u9285(II)\u30a4\u30aa\u30f3)\u306e\u8272\u3068\u5f62\u72b6\u306f\uff1f","\u6df1\u9752\u8272\u3001\u6b63\u65b9\u5f62",B.Ek,"\u30a4\u30aa\u30f3\u3068\u6eb6\u6db2",!1,!1)
+B.Dz=s(["\u6298\u308c\u7dda\u5f62","\u6b63\u56db\u9762\u4f53","\u6b63\u65b9\u5f62","\u975e\u5171\u6709\u96fb\u5b50\u5bfe\u3092\u6301\u3064\u30d4\u30e9\u30df\u30c3\u30c9\u578b"],t.s)
+B.Qh=new A.ag("81","[Ag(NH3)2]+ (\u30b8\u30a2\u30f3\u30df\u30f3\u9280(I)\u30a4\u30aa\u30f3)\u306e\u5f62\u72b6\u306f\uff1f","\u76f4\u7dda\u5f62",B.Dz,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.DJ=s(["\u6b63\u65b9\u5f62","\u76f4\u7dda\u5f62","\u6b63\u516b\u9762\u4f53","\u6298\u308c\u7dda\u5f62"],t.s)
+B.QV=new A.ag("82","[Zn(NH3)4]2+ (\u30c6\u30c8\u30e9\u30a2\u30f3\u30df\u30f3\u4e9c\u925b(II)\u30a4\u30aa\u30f3)\u306e\u5f62\u72b6\u306f\uff1f","\u6b63\u56db\u9762\u4f53",B.DJ,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.DP=s(["\u6de1\u7dd1\u8272","\u8d64\u8910\u8272","\u6fc3\u9752\u8272","\u7121\u8272"],t.s)
+B.Ql=new A.ag("83","[Fe(CN)6]3- (\u30d8\u30ad\u30b5\u30b7\u30a2\u30cb\u30c9\u9244(III)\u9178\u30a4\u30aa\u30f3)\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.DP,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.CM=s(["\u9ec4\u8272","\u8d64\u8910\u8272","\u6fc3\u9752\u8272","\u9752\u767d\u8272"],t.s)
+B.Qv=new A.ag("84","[Fe(CN)6]4- (\u30d8\u30ad\u30b5\u30b7\u30a2\u30cb\u30c9\u9244(II)\u9178\u30a4\u30aa\u30f3)\u306e\u8272\u306f\uff1f","\u6de1\u9ec4\u8272",B.CM,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.D9=s(["\u6fc3\u9752\u8272","\u9ec4\u8910\u8272","\u6de1\u7dd1\u8272","\u9ed2\u8272"],t.s)
+B.R6=new A.ag("85","Fe3+ \u3092\u542b\u3080\u6c34\u6eb6\u6db2\u306b KSCN (\u30c1\u30aa\u30b7\u30a2\u30f3\u9178\u30ab\u30ea\u30a6\u30e0)\u3092\u52a0\u3048\u305f\u3068\u304d\u306e\u8272\u306f\uff1f","\u8840\u8d64\u8272",B.D9,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.CW=s(["Fe2+ \u3068 [Fe(CN)6]4-","Fe3+ \u3068 KSCN","Fe2+ \u3068 KSCN","Cu2+ \u3068 [Fe(CN)6]3-"],t.s)
+B.QZ=new A.ag("86","\u6fc3\u9752\u8272\u306e\u6c88\u6bbf\u300c\u30d9\u30eb\u30ea\u30f3\u9752\u300d\u304c\u751f\u3058\u308b\u53cd\u5fdc\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe3+ \u3068 [Fe(CN)6]4-",B.CW,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.Eo=s(["Fe3+ \u3068 [Fe(CN)6]3-","Fe3+ \u3068 [Fe(CN)6]4-","Fe2+ \u3068 KSCN","Zn2+ \u3068 [Fe(CN)6]4-"],t.s)
+B.Qn=new A.ag("87","\u300c\u30bf\u30fc\u30f3\u30d6\u30eb\u9752\u300d\u3068\u547c\u3070\u308c\u308b\u6fc3\u9752\u8272\u6c88\u6bbf\u304c\u751f\u3058\u308b\u53cd\u5fdc\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe2+ \u3068 [Fe(CN)6]3-",B.Eo,"\u932f\u30a4\u30aa\u30f3",!1,!1)
+B.CT=s(["Ag+, Pb2+, Hg22+","Fe3+, Al3+, Cr3+","Zn2+, Mn2+, Ni2+, Co2+","Ba2+, Ca2+, Sr2+"],t.s)
+B.Qm=new A.ag("90","\u9178\u6027\u6eb6\u6db2\u4e2d\u3067\u786b\u5316\u6c34\u7d20\u3092\u901a\u3058\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c2\u5c5e)\u306f\uff1f","Cu2+, Pb2+, Cd2+ \u306a\u3069",B.CT,"\u6c88\u6bbf\u3068\u691c\u51fa",!1,!1)
+B.Eb=s(["Cu2+, Pb2+, Cd2+","Fe3+, Al3+, Cr3+","Ba2+, Ca2+, Sr2+","Na+, K+, Mg2+"],t.s)
+B.QH=new A.ag("91","\u30a2\u30f3\u30e2\u30cb\u30a2\u5869\u57fa\u6027\u6eb6\u6db2\u4e2d\u3067\u786b\u5316\u6c34\u7d20\u3092\u901a\u3058\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c4\u5c5e)\u306f\uff1f","Zn2+, Mn2+, Ni2+, Co2+",B.Eb,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
+B.Dy=s(["Cu2+, Cd2+, Sn2+","Fe3+, Al3+, Cr3+","Ba2+, Ca2+, Sr2+","Zn2+, Ni2+, Co2+"],t.s)
+B.Qx=new A.ag("92","\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c1\u5c5e)\u306f\uff1f","Ag+, Pb2+, Hg22+",B.Dy,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
+B.Ds=s(["AgCl (\u5869\u5316\u9280)","Hg2Cl2 (\u5869\u5316\u6c34\u9280(I))","CuCl2 (\u5869\u5316\u9285(II))","BaCl2 (\u5869\u5316\u30d0\u30ea\u30a6\u30e0)"],t.s)
+B.QF=new A.ag("93","\u71b1\u6e6f\u306b\u6eb6\u3051\u308b\u7b2c1\u5c5e\u306e\u5869\u5316\u7269\u306f\uff1f","PbCl2 (\u5869\u5316\u925b(II))",B.Ds,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
+B.Dn=s(["PbCl2","Hg2Cl2","BaSO4","CaCO3"],t.s)
+B.QU=new A.ag("94","\u904e\u5270\u306e\u30a2\u30f3\u30e2\u30cb\u30a2\u6c34\u306b\u6eb6\u3051\u308b\u7b2c1\u5c5e\u306e\u6c88\u6bbf\u306f\uff1f","AgCl (\u932f\u30a4\u30aa\u30f3\u5f62\u6210\uff1a[Ag(NH3)2]+)",B.Dn,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
+B.Dm=s(["Fe3+","Cr3+","Mn2+","Ni2+"],t.s)
+B.Ra=new A.ag("95","\u904e\u5270\u306e\u6c34\u9178\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u6c34\u6eb6\u6db2\u306b\u6eb6\u3051\u308b\u7b2c3\u5c5e\u30a4\u30aa\u30f3(\u4e21\u6027\u91d1\u5c5e)\u306f\uff1f","Al3+ ([Al(OH)4]-\u3092\u751f\u3058\u308b)",B.Dm,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
+B.Do=s([B.QP,B.Qy,B.QQ,B.R9,B.Rg,B.Qk,B.QJ,B.QD,B.QN,B.QS,B.QA,B.R1,B.QI,B.Qe,B.Qu,B.QL,B.QW,B.QK,B.Qs,B.QR,B.Rb,B.Qp,B.Qw,B.Qi,B.R7,B.QX,B.R5,B.Rf,B.QE,B.Qo,B.Qj,B.R8,B.Qr,B.Qt,B.QC,B.R4,B.Rc,B.QY,B.Qd,B.Qg,B.Qq,B.QT,B.QO,B.R2,B.QM,B.QB,B.Qc,B.Rd,B.Re,B.Qz,B.R0,B.QG,B.R_,B.Qb,B.Qf,B.R3,B.Qh,B.QV,B.Ql,B.Qv,B.R6,B.QZ,B.Qn,B.Qm,B.QH,B.Qx,B.QF,B.QU,B.Ra],A.aj("w<bm>"))
 B.vS=new A.xf(0,"left")
 B.vT=new A.xf(1,"right")
-B.Du=s([B.vS,B.vT],A.aj("w<xf>"))
+B.Dv=s([B.vS,B.vT],A.aj("w<xf>"))
 B.at=new A.xk(0,"upstream")
 B.p=new A.xk(1,"downstream")
-B.Dw=s([B.at,B.p],A.aj("w<xk>"))
+B.Dx=s([B.at,B.p],A.aj("w<xk>"))
 B.au=new A.xp(0,"rtl")
 B.a4=new A.xp(1,"ltr")
 B.hR=s([B.au,B.a4],A.aj("w<xp>"))
@@ -70336,13 +70475,13 @@ B.bx=new A.ho(0,"leading")
 B.aF=new A.ho(1,"title")
 B.by=new A.ho(2,"subtitle")
 B.cG=new A.ho(3,"trailing")
-B.DF=s([B.bx,B.aF,B.by,B.cG],A.aj("w<ho>"))
+B.DG=s([B.bx,B.aF,B.by,B.cG],A.aj("w<ho>"))
 B.yr=new A.lH(0,"auto")
 B.ys=new A.lH(1,"full")
 B.yt=new A.lH(2,"chromium")
-B.DH=s([B.yr,B.ys,B.yt,B.bH],A.aj("w<lH>"))
+B.DI=s([B.yr,B.ys,B.yt,B.bH],A.aj("w<lH>"))
 B.b_=new A.e1(1,"fuchsia")
-B.DL=s([B.ag,B.b_,B.a3,B.aP,B.aQ,B.aR],A.aj("w<e1>"))
+B.DM=s([B.ag,B.b_,B.a3,B.aP,B.aQ,B.aR],A.aj("w<e1>"))
 B.wq=new A.qd(0,"topLeft")
 B.wt=new A.qd(3,"bottomRight")
 B.Rk=new A.ju(B.wq,B.wt)
@@ -70351,33 +70490,33 @@ B.wr=new A.qd(1,"topRight")
 B.ws=new A.qd(2,"bottomLeft")
 B.Rl=new A.ju(B.wr,B.ws)
 B.Rm=new A.ju(B.ws,B.wr)
-B.DN=s([B.Rk,B.Rn,B.Rl,B.Rm],A.aj("w<ju>"))
-B.DQ=s(["click","scroll"],t.s)
+B.DO=s([B.Rk,B.Rn,B.Rl,B.Rm],A.aj("w<ju>"))
+B.DR=s(["click","scroll"],t.s)
 B.xh=new A.o0()
 B.iz=new A.Gf(1,"page")
 B.iA=new A.eK(B.ax,B.iz)
-B.DR=s([B.xh,B.iA],A.aj("w<aF>"))
-B.E_=s([],t.QP)
+B.DS=s([B.xh,B.iA],A.aj("w<aF>"))
+B.E0=s([],t.QP)
 B.ld=s([],A.aj("w<aAb>"))
-B.E4=s([],t.E)
-B.E3=s([],t.fJ)
-B.E5=s([],t.ER)
-B.E6=s([],t.tc)
+B.E5=s([],t.E)
+B.E4=s([],t.fJ)
+B.E6=s([],t.ER)
+B.E7=s([],t.tc)
 B.eq=s([],t.jl)
-B.DX=s([],t.wi)
+B.DY=s([],t.wi)
 B.hS=s([],A.aj("w<hT>"))
-B.DW=s([],A.aj("w<aji<@>>"))
-B.E2=s([],t.NK)
+B.DX=s([],A.aj("w<aji<@>>"))
+B.E3=s([],t.NK)
 B.hU=s([],t.AO)
-B.DZ=s([],t.D1)
+B.E_=s([],t.D1)
 B.hT=s([],t.c)
 B.lb=s([],t.s)
 B.aa=s([],t.oU)
-B.E0=s([],t.Lx)
+B.E1=s([],t.Lx)
 B.Sm=s([],t.F)
-B.DV=s([],t.t)
+B.DW=s([],t.t)
 B.lc=s([],t.ee)
-B.E1=s([],t.XS)
+B.E2=s([],t.XS)
 B.hM=new A.fy(0)
 B.Bg=new A.fy(1)
 B.Bh=new A.fy(2)
@@ -70387,145 +70526,6 @@ B.Bi=new A.fy(7)
 B.kS=new A.fy(8)
 B.le=s([B.hM,B.Bg,B.Bh,B.o,B.J,B.kR,B.bp,B.Bi,B.kS],A.aj("w<fy>"))
 B.d7=s([B.bA,B.bl,B.dO,B.dP,B.fA],t.QP)
-B.El=s(["\u751f\u7269\u306e\u4f53\u5185\u3067\u8d77\u3053\u308b\u5316\u5b66\u53cd\u5fdc\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u91d1\u5c5e\u5143\u7d20\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u6c17\u4f53\u304a\u3088\u3073\u6db2\u4f53\u306e\u307f\u3092\u6271\u3046\u5316\u5b66","\u70ad\u7d20\u3092\u542b\u3080\u5168\u3066\u306e\u5316\u5408\u7269\u3092\u6271\u3046\u5316\u5b66"],t.s)
-B.QY=new A.ag("100","\u7121\u6a5f\u5316\u5b66\uff08Inorganic Chemistry\uff09\u306e\u5b9a\u7fa9\u3068\u3057\u3066\u6700\u3082\u9069\u5207\u306a\u3082\u306e\u306f\uff1f","\u6709\u6a5f\u5316\u5408\u7269\uff08\u70ad\u7d20\u539f\u5b50\u3092\u9aa8\u683c\u3068\u3059\u308b\u5316\u5408\u7269\uff09\u4ee5\u5916\u306e\u3059\u3079\u3066\u306e\u7269\u8cea\u3092\u6271\u3046\u5316\u5b66",B.El,"\u7121\u6a5f\u5316\u5b66\u306e\u57fa\u790e",!1,!1)
-B.Dt=s(["\u7d042\u5272","\u7d045\u5272","\u7d049\u5272","\u7d041\u5272"],t.s)
-B.QB=new A.ag("101","\u5143\u7d20\u306e\u5468\u671f\u8868\u306b\u304a\u3044\u3066\u3001\u91d1\u5c5e\u5143\u7d20\u306f\u304a\u3088\u305d\u4f55\u5272\u3092\u5360\u3081\u308b\u304b\uff1f","\u7d048\u5272",B.Dt,"\u7121\u6a5f\u5316\u5b66\u306e\u57fa\u790e",!1,!1)
-B.EB=s(["\u6709\u6a5f\u5316\u5b66\u306f\u56fa\u4f53\u3092\u6271\u3044\u3001\u7121\u6a5f\u5316\u5b66\u306f\u6db2\u4f53\u3092\u6271\u3046","\u6709\u6a5f\u5316\u5b66\u306f\u5b9f\u9a13\u3092\u884c\u308f\u305a\u3001\u7121\u6a5f\u5316\u5b66\u306f\u5b9f\u9a13\u3092\u884c\u3046","\u6709\u6a5f\u5316\u5b66\u306f\u91d1\u5c5e\u3092\u542b\u307e\u306a\u3044\u304c\u3001\u7121\u6a5f\u5316\u5b66\u306f\u91d1\u5c5e\u306e\u307f\u3092\u542b\u3080","\u6709\u6a5f\u5316\u5b66\u306f\u53e4\u4ee3\u304b\u3089\u3042\u308a\u3001\u7121\u6a5f\u5316\u5b66\u306f\u73fe\u4ee3\u306e\u5b66\u554f\u3067\u3042\u308b"],t.s)
-B.QS=new A.ag("102","\u6709\u6a5f\u5316\u5b66\u3068\u7121\u6a5f\u5316\u5b66\u306e\u9055\u3044\u306b\u3064\u3044\u3066\u6b63\u3057\u3044\u8a18\u8ff0\u306f\uff1f","\u6709\u6a5f\u5316\u5b66\u306f\u70ad\u7d20\u306e\u7d50\u5408\u3092\u4e2d\u5fc3\u3068\u3059\u308b\u304c\u3001\u7121\u6a5f\u5316\u5b66\u306f\u5168\u5143\u7d20\u306e\u5e83\u7bc4\u306a\u7d50\u5408\u3092\u6271\u3046",B.EB,"\u7121\u6a5f\u5316\u5b66\u306e\u57fa\u790e",!1,!1)
-B.D0=s(["Fe3O4","FeO","FeS2","FeCO3"],t.s)
-B.Qh=new A.ag("110","\u8d64\u9244\u9271\uff08Hematite\uff09\u306e\u4e3b\u6210\u5206\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Fe2O3",B.D0,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.D_=s(["Fe2O3","FeOHI","FeS","FeSO4"],t.s)
-B.Rg=new A.ag("111","\u78c1\u9244\u9271\uff08Magnetite\uff09\u306e\u4e3b\u6210\u5206\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Fe3O4",B.D_,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.CZ=s(["\u9244 (Fe)","\u9285 (Cu)","\u4e9c\u925b (Zn)","\u30de\u30b0\u30cd\u30b7\u30a6\u30e0 (Mg)"],t.s)
-B.Qm=new A.ag("112","\u30dc\u30fc\u30ad\u30b5\u30a4\u30c8\uff08Bauxite\uff09\u306f\u4f55\u306e\u539f\u6599\u9271\u77f3\u304b\uff1f","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al)",B.CZ,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.Ds=s(["\u786b\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaSO4)","\u6c34\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (Ca(OH)2)","\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaO)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)"],t.s)
-B.QN=new A.ag("113","\u77f3\u7070\u77f3\uff08Limestone\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)",B.Ds,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.CY=s(["Cu2S","CuS","CuO","CuSO4"],t.s)
-B.QG=new A.ag("114","\u9ec4\u9285\u9271\uff08Chalcopyrite\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","CuFeS2",B.CY,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.Ew=s(["\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)","\u30ea\u30f3\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (Ca3(PO4)2)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)","\u30b1\u30a4\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaSiO3)"],t.s)
-B.QQ=new A.ag("115","\u86cd\u77f3\uff08Fluorite\uff09\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u30d5\u30c3\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaF2)",B.Ew,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.CN=s(["\u540c\u4f4d\u4f53","\u7570\u6027\u4f53","\u591a\u5f62\uff08\u30dd\u30ea\u30e2\u30eb\u30d5\uff09","\u985e\u7e01\u4f53"],t.s)
-B.QU=new A.ag("116","\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u3068\u9ed2\u925b\uff08\u30b0\u30e9\u30d5\u30a1\u30a4\u30c8\uff09\u306e\u95a2\u4fc2\u3092\u4f55\u3068\u3044\u3046\u304b\uff1f","\u540c\u7d20\u4f53",B.CN,"\u9271\u7269\u30fb\u9271\u77f3",!1,!1)
-B.Dd=s(["Na2CO3","NaHCO3","KCl","NaOH"],t.s)
-B.R1=new A.ag("120","\u98df\u5869\u306e\u4e3b\u6210\u5206\u3067\u3042\u308b\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u306e\u5316\u5b66\u5f0f\u306f\uff1f","NaCl",B.Dd,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.DD=s(["CaSO4\u30fb1/2H2O","CaSO4","CaCO3","CaCl2\u30fb6H2O"],t.s)
-B.R3=new A.ag("121","\u77f3\u818f\uff08Gypsum\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","CaSO4\u30fb2H2O",B.DD,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.D2=s(["CaSO4\u30fb2H2O","CaSO4","CaO","Ca(OH)2"],t.s)
-B.QM=new A.ag("122","\u713c\u304d\u77f3\u818f\u306e\u5316\u5b66\u5f0f\u306f\uff1f","CaSO4\u30fb1/2H2O",B.D2,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.De=s(["Na2CO3","NaOH","NaCl","Na2SO4"],t.s)
-B.Qf=new A.ag("123","\u91cd\u66f9\uff08\u30d9\u30fc\u30ad\u30f3\u30b0\u30d1\u30a6\u30c0\u30fc\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","NaHCO3",B.De,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.Df=s(["NaHCO3","NaOH","Na2O","Na2SO4"],t.s)
-B.Qx=new A.ag("124","\u30bd\u30fc\u30c0\u7070\uff08\u70ad\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\uff09\u306e\u5316\u5b66\u5f0f\u306f\uff1f","Na2CO3",B.Df,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.Eu=s(["\u6c34 (H2O)","\u7a92\u7d20 (N2)","\u9178\u7d20 (O2)","\u30a2\u30f3\u30e2\u30cb\u30a2 (NH3)"],t.s)
-B.QO=new A.ag("125","\u30c9\u30e9\u30a4\u30a2\u30a4\u30b9\u306f\u4f55\u304c\u56fa\u4f53\u306b\u306a\u3063\u305f\u3082\u306e\u304b\uff1f","\u4e8c\u9178\u5316\u70ad\u7d20 (CO2)",B.Eu,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.Do=s(["Al2(SO4)3","K2SO4","Al(OH)3","NaAl(SO4)2\u30fb12H2O"],t.s)
-B.QX=new A.ag("126","\u30df\u30e7\u30a6\u30d0\u30f3\uff08Alum\uff09\u306e\u5316\u5b66\u5f0f\u3067\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","AlK(SO4)2\u30fb12H2O",B.Do,"\u5316\u5408\u7269\u30fb\u5869",!1,!1)
-B.Cc=s(["\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u30ae\u9178\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b"],t.s)
-B.Qc=new A.ag("1","\u30a2\u30f3\u30e2\u30cb\u30a2\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u6c34\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u3092\u6df7\u5408\u3057\u3066\u52a0\u71b1",B.Cc,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.DJ=s(["\u786b\u9ec4\u3092\u7a7a\u6c17\u4e2d\u3067\u71c3\u713c\u3055\u305b\u308b","\u4e9c\u786b\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u71b1\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u306b\u6fc3\u5869\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b"],t.s)
-B.Qu=new A.ag("2","\u786b\u5316\u6c34\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u786b\u5316\u9244(II)\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b",B.DJ,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.DG=s(["\u3055\u3089\u3057\u7c89\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u6c34\u6eb6\u6db2\u3092\u96fb\u6c17\u5206\u89e3\u3059\u308b","\u30d5\u30c3\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u4e9c\u785d\u9178\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u6c34\u6eb6\u6db2\u3092\u52a0\u71b1\u3059\u308b"],t.s)
-B.QT=new A.ag("3","\u5869\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u306b\u6fc3\u5869\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.DG,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.Da=s(["\u77f3\u7070\u77f3\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u70ad\u7d20\u3092\u4e0d\u5b8c\u5168\u71c3\u713c\u3055\u305b\u308b","\u30b7\u30e5\u30a6\u9178\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b","\u30e1\u30bf\u30f3\u3092\u9ad8\u6e29\u3067\u6c34\u84b8\u6c17\u3068\u53cd\u5fdc\u3055\u305b\u308b"],t.s)
-B.Rb=new A.ag("4","\u4e00\u9178\u5316\u70ad\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u30ae\u9178\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.Da,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.Et=s(["\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b","\u904e\u9178\u5316\u6c34\u7d20\u6c34\u306b\u9178\u5316\u30de\u30f3\u30ac\u30f3(IV)\u3092\u52a0\u3048\u308b","\u9178\u5316\u6c34\u9280(II)\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b","\u70ad\u5316\u30ab\u30eb\u30b7\u30a6\u30e0\u306b\u6c34\u3092\u52a0\u3048\u308b"],t.s)
-B.Qr=new A.ag("5","\u6c34\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b",B.Et,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.Cd=s(["\u4e9c\u925b\u306b\u5e0c\u786b\u9178\u3092\u52a0\u3048\u308b","\u786b\u5316\u9244(II)\u306b\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u6c34\u9178\u5316Ca\u3092\u52a0\u71b1","\u904e\u9178\u5316\u6c34\u7d20\u6c34\u3092\u5206\u89e3\u3059\u308b"],t.s)
-B.Qz=new A.ag("50","\u4e8c\u9178\u5316\u786b\u9ec4\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u3066\u52a0\u71b1\u3059\u308b",B.Cd,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.EC=s(["\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0\u3068\u4e9c\u785d\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u52a0\u71b1","\u30a2\u30f3\u30e2\u30cb\u30a2\u3092\u767d\u91d1\u89e6\u5a92\u3067\u9178\u5316\u3059\u308b"],t.s)
-B.Qk=new A.ag("51","\u4e8c\u9178\u5316\u7a92\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u6fc3\u785d\u9178\u3092\u52a0\u3048\u308b",B.EC,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.DT=s(["\u9285\u306b\u6fc3\u785d\u9178\u3092\u52a0\u3048\u308b","\u9285\u306b\u6fc3\u786b\u9178\u3092\u52a0\u3048\u308b","\u30a2\u30f3\u30e2\u30cb\u30a2\u3092\u767d\u91d1\u89e6\u5a92\u3067\u9178\u5316\u3059\u308b","\u785d\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u52a0\u71b1\u5206\u89e3\u3059\u308b"],t.s)
-B.R9=new A.ag("52","\u4e00\u9178\u5316\u7a92\u7d20\u306e\u5b9f\u9a13\u5ba4\u7684\u88fd\u6cd5\u3068\u3057\u3066\u6b63\u3057\u3044\u3082\u306e\u306f\uff1f","\u9285\u306b\u5e0c\u785d\u9178\u3092\u52a0\u3048\u308b",B.DT,"\u6c17\u4f53\u306e\u88fd\u6cd5",!1,!1)
-B.ED=s(["\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5","\u63a5\u89e6\u6cd5","\u30bd\u30eb\u30d9\u30fc\u6cd5","\u30a2\u30f3\u30e2\u30cb\u30a2\u30fb\u30bd\u30fc\u30c0\u6cd5"],t.s)
-B.Qq=new A.ag("6","\u30a2\u30f3\u30e2\u30cb\u30a2\u306e\u5de5\u696d\u7684\u88fd\u6cd5\u306e\u540d\u79f0\u306f\uff1f","\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5",B.ED,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.Dv=s(["\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5","\u63a5\u89e6\u6cd5","\u30db\u30fc\u30eb\u30fb\u30a8\u30eb\u30fc\u6cd5","\u6eb6\u878d\u5869\u96fb\u89e3\u6cd5"],t.s)
-B.R7=new A.ag("7","\u785d\u9178\u306e\u5de5\u696d\u7684\u88fd\u6cd5\u306e\u540d\u79f0\u306f\uff1f","\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5",B.Dv,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.C9=s(["\u767d\u91d1 (Pt)","\u56db\u9178\u5316\u4e09\u9244 (Fe3O4)","\u9244 (Fe)","\u30cb\u30c3\u30b1\u30eb (Ni)"],t.s)
-B.Rf=new A.ag("8","\u63a5\u89e6\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u89e6\u5a92\u306f\uff1f","\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)",B.C9,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.Dq=s(["\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)","\u767d\u91d1 (Pt)","\u9285 (Cu)","\u9178\u5316\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al2O3)"],t.s)
-B.QH=new A.ag("9","\u30cf\u30fc\u30d0\u30fc\u30fb\u30dc\u30c3\u30b7\u30e5\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u4e3b\u89e6\u5a92\u306f\uff1f","\u56db\u9178\u5316\u4e09\u9244 (Fe3O4)",B.Dq,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.Eb=s(["\u9244 (Fe)","\u30cb\u30c3\u30b1\u30eb (Ni)","\u9178\u5316\u30d0\u30ca\u30b8\u30a6\u30e0(V) (V2O5)","\u30d1\u30e9\u30b8\u30a6\u30e0 (Pd)"],t.s)
-B.Qp=new A.ag("10","\u30aa\u30b9\u30c8\u30ef\u30eb\u30c8\u6cd5\u3067\u7528\u3044\u3089\u308c\u308b\u89e6\u5a92\u306f\uff1f","\u767d\u91d1 (Pt)",B.Eb,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.Eo=s(["\u70ad\u9178\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCO3)","\u5869\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaCl2)","\u5869\u5316\u30a2\u30f3\u30e2\u30cb\u30a6\u30e0 (NH4Cl)","\u9178\u5316\u30ab\u30eb\u30b7\u30a6\u30e0 (CaO)"],t.s)
-B.Ql=new A.ag("60","\u30a2\u30f3\u30e2\u30cb\u30a2\u30fb\u30bd\u30fc\u30c0\u6cd5(\u30bd\u30eb\u30d9\u30fc\u6cd5)\u3067\u306e\u4e2d\u9593\u751f\u6210\u7269\u3067\u3001\u71b1\u5206\u89e3\u3057\u3066\u70ad\u9178\u30ca\u30c8\u30ea\u30a6\u30e0\u3092\u5f97\u308b\u306e\u306f\uff1f","\u70ad\u9178\u6c34\u7d20\u30ca\u30c8\u30ea\u30a6\u30e0 (NaHCO3)",B.Eo,"\u5de5\u696d\u7684\u88fd\u6cd5",!1,!1)
-B.DK=s(["\u6de1\u9ec4\u8272","\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
-B.QD=new A.ag("11","AgCl \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u767d\u8272",B.DK,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.Ca=s(["\u767d\u8272","\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
-B.Qt=new A.ag("12","AgBr \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u6de1\u9ec4\u8272",B.Ca,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.Db=s(["\u767d\u8272","\u6de1\u9ec4\u8272","\u8d64\u8910\u8272","\u9ed2\u8272"],t.s)
-B.Qv=new A.ag("13","AgI \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.Db,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.Eh=s(["\u7dd1\u767d\u8272","\u767d\u8272","\u9ed2\u8272","\u9752\u767d\u8272"],t.s)
-B.QF=new A.ag("14","Fe(OH)3 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u8d64\u8910\u8272",B.Eh,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.D3=s(["\u767d\u8272","\u9ec4\u8272","\u6de1\u7d05\u8272","\u9752\u8272"],t.s)
-B.R6=new A.ag("15","CuS \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ed2\u8272",B.D3,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.D7=s(["\u9ed2\u8272","\u9ec4\u8272","\u6de1\u7d05\u8272","\u8d64\u8910\u8272"],t.s)
-B.Rc=new A.ag("16","ZnS \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u767d\u8272",B.D7,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.Dp=s(["\u8d64\u8272","\u767d\u8272","\u9ed2\u8272","\u8910\u8272"],t.s)
-B.QZ=new A.ag("17","PbCrO4 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.Dp,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.E9=s(["\u9ec4\u8272","\u767d\u8272","\u9ed2\u8272","\u6de1\u9ec4\u8272"],t.s)
-B.Qe=new A.ag("70","Ag2CrO4 \u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u8d64\u8910\u8272",B.E9,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.C8=s(["\u9ed2\u8272","\u8d64\u8272","\u767d\u8272","\u6a59\u8272"],t.s)
-B.Qi=new A.ag("71","CdS (\u786b\u5316\u30ab\u30c9\u30df\u30a6\u30e0)\u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.C8,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.Dc=s(["\u9ed2\u8272","\u767d\u8272","\u9ec4\u8272","\u7dd1\u8272"],t.s)
-B.Qs=new A.ag("72","MnS (\u786b\u5316\u30de\u30f3\u30ac\u30f3(II))\u306e\u6c88\u6bbf\u306e\u8272\u306f\uff1f","\u6de1\u6843\u8272 (\u8089\u8272)",B.Dc,"\u6c88\u6bbf\u3068\u8272",!1,!1)
-B.D8=s(["\u8d64\u8272","\u6a59\u8272","\u6df1\u8d64\u8272","\u9ec4\u7dd1\u8272"],t.s)
-B.QK=new A.ag("18","\u30ca\u30c8\u30ea\u30a6\u30e0(Na)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.D8,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.Es=s(["\u9ec4\u8272","\u6a59\u8272","\u9752\u7dd1\u8272","\u6df1\u8d64\u8272"],t.s)
-B.QR=new A.ag("19","\u30ab\u30ea\u30a6\u30e0(K)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u8d64\u7d2b\u8272",B.Es,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.Ex=s(["\u9ec4\u7dd1\u8272","\u8d64\u7d2b\u8272","\u7d05\u8272","\u6a59\u8272"],t.s)
-B.R4=new A.ag("20","\u9285(Cu)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9752\u7dd1\u8272",B.Ex,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.CX=s(["\u9ec4\u8272","\u6a59\u8272","\u9752\u7dd1\u8272","\u9ec4\u7dd1\u8272"],t.s)
-B.QP=new A.ag("21","\u30ea\u30c1\u30a6\u30e0(Li)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u8d64\u8272",B.CX,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.Ec=s(["\u6df1\u8d64\u8272","\u6a59\u8d64\u8272","\u9752\u7dd1\u8272","\u8d64\u8272"],t.s)
-B.QE=new A.ag("22","\u30d0\u30ea\u30a6\u30e0(Ba)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u9ec4\u7dd1\u8272",B.Ec,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.Ev=s(["\u8d64\u8272","\u9ec4\u7dd1\u8272","\u6df1\u8d64\u8272","\u9ec4\u8272"],t.s)
-B.Qd=new A.ag("23","\u30ab\u30eb\u30b7\u30a6\u30e0(Ca)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u6a59\u8d64\u8272",B.Ev,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.DS=s(["\u6a59\u8d64\u8272","\u8d64\u8272","\u9ec4\u7dd1\u8272","\u8d64\u7d2b\u8272"],t.s)
-B.Rd=new A.ag("24","\u30b9\u30c8\u30ed\u30f3\u30c1\u30a6\u30e0(Sr)\u306e\u708e\u8272\u53cd\u5fdc\u306e\u8272\u306f\uff1f","\u6df1\u8d64\u8272",B.DS,"\u708e\u8272\u53cd\u5fdc",!1,!1)
-B.D4=s(["Zn, Pb, Sn","Pt, Au, Ag","Cu, Ag, Hg","Mg, Al, Zn"],t.s)
-B.Re=new A.ag("25","\u6fc3\u785d\u9178\u306b\u5165\u308c\u3066\u3082\u4e0d\u52d5\u614b\u3068\u306a\u308a\u6eb6\u3051\u306a\u3044\u91d1\u5c5e\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe, Ni, Al",B.D4,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.Em=s(["Fe, Ni, Co","Cu, Ag, Au","Na, K, Li","Mg, Ca, Ba"],t.s)
-B.QC=new A.ag("26","\u4e21\u6027\u5143\u7d20\uff08\u9178\u3068\u3082\u5869\u57fa\u3068\u3082\u53cd\u5fdc\u3059\u308b\uff09\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Al, Zn, Sn, Pb",B.Em,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.Cy=s(["\u9244(Fe)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0(Al)\u306b\u9285(Cu)\u3092\u30e1\u30c3\u30ad"],t.s)
-B.R2=new A.ag("27","\u30c8\u30bf\u30f3\u306f\u4f55\u306e\u5408\u91d1\uff1f","\u9244(Fe)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad",B.Cy,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.DM=s(["\u9244(Fe)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad","\u9285(Cu)\u306b\u4e9c\u925b(Zn)\u3092\u30e1\u30c3\u30ad","\u925b(Pb)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad"],t.s)
-B.QJ=new A.ag("28","\u30d6\u30ea\u30ad\u306f\u4f55\u306e\u5408\u91d1\uff1f","\u9244(Fe)\u306b\u30b9\u30ba(Sn)\u3092\u30e1\u30c3\u30ad",B.DM,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.Ee=s(["\u9244 (Fe)","\u9285 (Cu)","\u30c1\u30bf\u30f3 (Ti)","\u30de\u30b0\u30cd\u30b7\u30a6\u30e0 (Mg)"],t.s)
-B.R0=new A.ag("29","\u30b8\u30e5\u30e9\u30eb\u30df\u30f3\u306e\u4e3b\u6210\u5206\u306f\uff1f","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0 (Al)",B.Ee,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.D6=s(["\u9285(Cu)\u3068\u4e9c\u925b(Zn)","\u9285(Cu)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u30bf\u30f3\u30b0\u30b9\u30c6\u30f3(W)\u3068\u70ad\u7d20(C)","\u9244(Fe)\u3068\u30af\u30ed\u30e0(Cr)"],t.s)
-B.Qb=new A.ag("30","\u9752\u9285\uff08\u30d6\u30ed\u30f3\u30ba\uff09\u306e\u7d44\u6210\u306f\uff1f","\u9285(Cu)\u3068\u30b9\u30ba(Sn)",B.D6,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.D1=s(["\u9285(Cu)\u3068\u30b9\u30ba(Sn)","\u9285(Cu)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u9244(Fe)\u3068\u30cb\u30c3\u30b1\u30eb(Ni)","\u30a2\u30eb\u30df\u30cb\u30a6\u30e0(Al)\u3068\u9285(Cu)"],t.s)
-B.Qg=new A.ag("31","\u9ec4\u9285\uff08\u771f\u936e\u3001\u30d6\u30e9\u30b9\uff09\u306e\u7d44\u6210\u306f\uff1f","\u9285(Cu)\u3068\u4e9c\u925b(Zn)",B.D1,"\u91d1\u5c5e\u306e\u6027\u8cea",!1,!1)
-B.Ej=s(["\u9752\u767d\u8272\u3001\u6b63\u56db\u9762\u4f53","\u9752\u8272\u3001\u6b63\u516b\u9762\u4f53","\u8d64\u8910\u8272\u3001\u76f4\u7dda\u5f62","\u7121\u8272\u3001\u6b63\u56db\u9762\u4f53"],t.s)
-B.Qw=new A.ag("80","[Cu(NH3)4]2+ (\u30c6\u30c8\u30e9\u30a2\u30f3\u30df\u30f3\u9285(II)\u30a4\u30aa\u30f3)\u306e\u8272\u3068\u5f62\u72b6\u306f\uff1f","\u6df1\u9752\u8272\u3001\u6b63\u65b9\u5f62",B.Ej,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.Dy=s(["\u6298\u308c\u7dda\u5f62","\u6b63\u56db\u9762\u4f53","\u6b63\u65b9\u5f62","\u975e\u5171\u6709\u96fb\u5b50\u5bfe\u3092\u6301\u3064\u30d4\u30e9\u30df\u30c3\u30c9\u578b"],t.s)
-B.Qj=new A.ag("81","[Ag(NH3)2]+ (\u30b8\u30a2\u30f3\u30df\u30f3\u9280(I)\u30a4\u30aa\u30f3)\u306e\u5f62\u72b6\u306f\uff1f","\u76f4\u7dda\u5f62",B.Dy,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.DI=s(["\u6b63\u65b9\u5f62","\u76f4\u7dda\u5f62","\u6b63\u516b\u9762\u4f53","\u6298\u308c\u7dda\u5f62"],t.s)
-B.QW=new A.ag("82","[Zn(NH3)4]2+ (\u30c6\u30c8\u30e9\u30a2\u30f3\u30df\u30f3\u4e9c\u925b(II)\u30a4\u30aa\u30f3)\u306e\u5f62\u72b6\u306f\uff1f","\u6b63\u56db\u9762\u4f53",B.DI,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.DO=s(["\u6de1\u7dd1\u8272","\u8d64\u8910\u8272","\u6fc3\u9752\u8272","\u7121\u8272"],t.s)
-B.Qn=new A.ag("83","[Fe(CN)6]3- (\u30d8\u30ad\u30b5\u30b7\u30a2\u30cb\u30c9\u9244(III)\u9178\u30a4\u30aa\u30f3)\u306e\u8272\u306f\uff1f","\u9ec4\u8272",B.DO,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.CM=s(["\u9ec4\u8272","\u8d64\u8910\u8272","\u6fc3\u9752\u8272","\u9752\u767d\u8272"],t.s)
-B.Qy=new A.ag("84","[Fe(CN)6]4- (\u30d8\u30ad\u30b5\u30b7\u30a2\u30cb\u30c9\u9244(II)\u9178\u30a4\u30aa\u30f3)\u306e\u8272\u306f\uff1f","\u6de1\u9ec4\u8272",B.CM,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.D9=s(["\u6fc3\u9752\u8272","\u9ec4\u8910\u8272","\u6de1\u7dd1\u8272","\u9ed2\u8272"],t.s)
-B.R8=new A.ag("85","Fe3+ \u3092\u542b\u3080\u6c34\u6eb6\u6db2\u306b KSCN (\u30c1\u30aa\u30b7\u30a2\u30f3\u9178\u30ab\u30ea\u30a6\u30e0)\u3092\u52a0\u3048\u305f\u3068\u304d\u306e\u8272\u306f\uff1f","\u8840\u8d64\u8272",B.D9,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.CW=s(["Fe2+ \u3068 [Fe(CN)6]4-","Fe3+ \u3068 KSCN","Fe2+ \u3068 KSCN","Cu2+ \u3068 [Fe(CN)6]3-"],t.s)
-B.R_=new A.ag("86","\u6fc3\u9752\u8272\u306e\u6c88\u6bbf\u300c\u30d9\u30eb\u30ea\u30f3\u9752\u300d\u304c\u751f\u3058\u308b\u53cd\u5fdc\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe3+ \u3068 [Fe(CN)6]4-",B.CW,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.En=s(["Fe3+ \u3068 [Fe(CN)6]3-","Fe3+ \u3068 [Fe(CN)6]4-","Fe2+ \u3068 KSCN","Zn2+ \u3068 [Fe(CN)6]4-"],t.s)
-B.Qo=new A.ag("87","\u300c\u30bf\u30fc\u30f3\u30d6\u30eb\u9752\u300d\u3068\u547c\u3070\u308c\u308b\u6fc3\u9752\u8272\u6c88\u6bbf\u304c\u751f\u3058\u308b\u53cd\u5fdc\u306e\u7d44\u307f\u5408\u308f\u305b\u306f\uff1f","Fe2+ \u3068 [Fe(CN)6]3-",B.En,"\u932f\u30a4\u30aa\u30f3",!1,!1)
-B.CT=s(["Ag+, Pb2+, Hg22+","Fe3+, Al3+, Cr3+","Zn2+, Mn2+, Ni2+, Co2+","Ba2+, Ca2+, Sr2+"],t.s)
-B.R5=new A.ag("90","\u9178\u6027\u6eb6\u6db2\u4e2d\u3067\u786b\u5316\u6c34\u7d20\u3092\u901a\u3058\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c2\u5c5e)\u306f\uff1f","Cu2+, Pb2+, Cd2+ \u306a\u3069",B.CT,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Ea=s(["Cu2+, Pb2+, Cd2+","Fe3+, Al3+, Cr3+","Ba2+, Ca2+, Sr2+","Na+, K+, Mg2+"],t.s)
-B.QL=new A.ag("91","\u30a2\u30f3\u30e2\u30cb\u30a2\u5869\u57fa\u6027\u6eb6\u6db2\u4e2d\u3067\u786b\u5316\u6c34\u7d20\u3092\u901a\u3058\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c4\u5c5e)\u306f\uff1f","Zn2+, Mn2+, Ni2+, Co2+",B.Ea,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Dx=s(["Cu2+, Cd2+, Sn2+","Fe3+, Al3+, Cr3+","Ba2+, Ca2+, Sr2+","Zn2+, Ni2+, Co2+"],t.s)
-B.QA=new A.ag("92","\u5e0c\u5869\u9178\u3092\u52a0\u3048\u308b\u3068\u6c88\u6bbf\u3059\u308b\u30a4\u30aa\u30f3\u7fa4(\u7b2c1\u5c5e)\u306f\uff1f","Ag+, Pb2+, Hg22+",B.Dx,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Dr=s(["AgCl (\u5869\u5316\u9280)","Hg2Cl2 (\u5869\u5316\u6c34\u9280(I))","CuCl2 (\u5869\u5316\u9285(II))","BaCl2 (\u5869\u5316\u30d0\u30ea\u30a6\u30e0)"],t.s)
-B.QI=new A.ag("93","\u71b1\u6e6f\u306b\u6eb6\u3051\u308b\u7b2c1\u5c5e\u306e\u5869\u5316\u7269\u306f\uff1f","PbCl2 (\u5869\u5316\u925b(II))",B.Dr,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Dn=s(["PbCl2","Hg2Cl2","BaSO4","CaCO3"],t.s)
-B.QV=new A.ag("94","\u904e\u5270\u306e\u30a2\u30f3\u30e2\u30cb\u30a2\u6c34\u306b\u6eb6\u3051\u308b\u7b2c1\u5c5e\u306e\u6c88\u6bbf\u306f\uff1f","AgCl (\u932f\u30a4\u30aa\u30f3\u5f62\u6210\uff1a[Ag(NH3)2]+)",B.Dn,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Dm=s(["Fe3+","Cr3+","Mn2+","Ni2+"],t.s)
-B.Ra=new A.ag("95","\u904e\u5270\u306e\u6c34\u9178\u5316\u30ca\u30c8\u30ea\u30a6\u30e0\u6c34\u6eb6\u6db2\u306b\u6eb6\u3051\u308b\u7b2c3\u5c5e\u30a4\u30aa\u30f3(\u4e21\u6027\u91d1\u5c5e)\u306f\uff1f","Al3+ ([Al(OH)4]-\u3092\u751f\u3058\u308b)",B.Dm,"\u7cfb\u7d71\u5206\u96e2",!1,!1)
-B.Ep=s([B.QY,B.QB,B.QS,B.Qh,B.Rg,B.Qm,B.QN,B.QG,B.QQ,B.QU,B.R1,B.R3,B.QM,B.Qf,B.Qx,B.QO,B.QX,B.Qc,B.Qu,B.QT,B.Rb,B.Qr,B.Qz,B.Qk,B.R9,B.Qq,B.R7,B.Rf,B.QH,B.Qp,B.Ql,B.QD,B.Qt,B.Qv,B.QF,B.R6,B.Rc,B.QZ,B.Qe,B.Qi,B.Qs,B.QK,B.QR,B.R4,B.QP,B.QE,B.Qd,B.Rd,B.Re,B.QC,B.R2,B.QJ,B.R0,B.Qb,B.Qg,B.Qw,B.Qj,B.QW,B.Qn,B.Qy,B.R8,B.R_,B.Qo,B.R5,B.QL,B.QA,B.QI,B.QV,B.Ra],A.aj("w<bm>"))
 B.cj=new A.fd(0,"controlModifier")
 B.ck=new A.fd(1,"shiftModifier")
 B.cl=new A.fd(2,"altModifier")
@@ -71072,57 +71072,57 @@ B.CD=s([54,null,null,8589935158],t.Z)
 B.CE=s([55,null,null,8589935159],t.Z)
 B.CF=s([56,null,null,8589935160],t.Z)
 B.CH=s([57,null,null,8589935161],t.Z)
-B.Dz=s([8589934852,8589934852,8589934853,null],t.Z)
+B.DA=s([8589934852,8589934852,8589934853,null],t.Z)
 B.Cg=s([4294967555,null,4294967555,null],t.Z)
 B.Ch=s([4294968065,null,null,8589935154],t.Z)
 B.Ci=s([4294968066,null,null,8589935156],t.Z)
 B.Cj=s([4294968067,null,null,8589935158],t.Z)
 B.Ck=s([4294968068,null,null,8589935160],t.Z)
 B.Cp=s([4294968321,null,null,8589935157],t.Z)
-B.DA=s([8589934848,8589934848,8589934849,null],t.Z)
+B.DB=s([8589934848,8589934848,8589934849,null],t.Z)
 B.Cf=s([4294967423,null,null,8589935150],t.Z)
 B.Cl=s([4294968069,null,null,8589935153],t.Z)
 B.Ce=s([4294967309,null,null,8589935117],t.Z)
 B.Cm=s([4294968070,null,null,8589935159],t.Z)
 B.Cq=s([4294968327,null,null,8589935152],t.Z)
-B.DB=s([8589934854,8589934854,8589934855,null],t.Z)
+B.DC=s([8589934854,8589934854,8589934855,null],t.Z)
 B.Cn=s([4294968071,null,null,8589935155],t.Z)
 B.Co=s([4294968072,null,null,8589935161],t.Z)
-B.DC=s([8589934850,8589934850,8589934851,null],t.Z)
-B.qg=new A.c5(["*",B.Cr,"+",B.Cs,"-",B.Ct,".",B.Cu,"/",B.Cv,"0",B.Cw,"1",B.Cx,"2",B.Cz,"3",B.CA,"4",B.CB,"5",B.CC,"6",B.CD,"7",B.CE,"8",B.CF,"9",B.CH,"Alt",B.Dz,"AltGraph",B.Cg,"ArrowDown",B.Ch,"ArrowLeft",B.Ci,"ArrowRight",B.Cj,"ArrowUp",B.Ck,"Clear",B.Cp,"Control",B.DA,"Delete",B.Cf,"End",B.Cl,"Enter",B.Ce,"Home",B.Cm,"Insert",B.Cq,"Meta",B.DB,"PageDown",B.Cn,"PageUp",B.Co,"Shift",B.DC],A.aj("c5<B,I<t?>>"))
+B.DD=s([8589934850,8589934850,8589934851,null],t.Z)
+B.qg=new A.c5(["*",B.Cr,"+",B.Cs,"-",B.Ct,".",B.Cu,"/",B.Cv,"0",B.Cw,"1",B.Cx,"2",B.Cz,"3",B.CA,"4",B.CB,"5",B.CC,"6",B.CD,"7",B.CE,"8",B.CF,"9",B.CH,"Alt",B.DA,"AltGraph",B.Cg,"ArrowDown",B.Ch,"ArrowLeft",B.Ci,"ArrowRight",B.Cj,"ArrowUp",B.Ck,"Clear",B.Cp,"Control",B.DB,"Delete",B.Cf,"End",B.Cl,"Enter",B.Ce,"Home",B.Cm,"Insert",B.Cq,"Meta",B.DC,"PageDown",B.Cn,"PageUp",B.Co,"Shift",B.DD],A.aj("c5<B,I<t?>>"))
 B.CG=s([B.lm,null,null,B.q2],t.L)
-B.E7=s([B.pP,null,null,B.q3],t.L)
+B.E8=s([B.pP,null,null,B.q3],t.L)
 B.D5=s([B.pQ,null,null,B.q4],t.L)
-B.DE=s([B.pR,null,null,B.bO],t.L)
+B.DF=s([B.pR,null,null,B.bO],t.L)
 B.C6=s([B.pS,null,null,B.q5],t.L)
 B.Eq=s([B.pT,null,null,B.i5],t.L)
-B.Ek=s([B.pU,null,null,B.dh],t.L)
+B.El=s([B.pU,null,null,B.dh],t.L)
 B.CL=s([B.pV,null,null,B.bP],t.L)
 B.Ez=s([B.pW,null,null,B.di],t.L)
-B.Ei=s([B.pX,null,null,B.bQ],t.L)
+B.Ej=s([B.pX,null,null,B.bQ],t.L)
 B.CK=s([B.pY,null,null,B.i6],t.L)
 B.Cb=s([B.pZ,null,null,B.bR],t.L)
 B.CU=s([B.q_,null,null,B.dj],t.L)
-B.E8=s([B.q0,null,null,B.bS],t.L)
-B.Ed=s([B.q1,null,null,B.dk],t.L)
+B.E9=s([B.q0,null,null,B.bS],t.L)
+B.Ee=s([B.q1,null,null,B.dk],t.L)
 B.CO=s([B.df,B.df,B.ex,null],t.L)
 B.Er=s([B.et,null,B.et,null],t.L)
 B.Dg=s([B.aV,null,null,B.bP],t.L)
 B.Dh=s([B.aK,null,null,B.bQ],t.L)
 B.Di=s([B.aL,null,null,B.bR],t.L)
 B.Ey=s([B.aW,null,null,B.bS],t.L)
-B.Ef=s([B.hZ,null,null,B.i6],t.L)
+B.Eg=s([B.hZ,null,null,B.i6],t.L)
 B.CP=s([B.dd,B.dd,B.ew,null],t.L)
-B.DP=s([B.ab,null,null,B.bO],t.L)
+B.DQ=s([B.ab,null,null,B.bO],t.L)
 B.Dj=s([B.bM,null,null,B.dh],t.L)
 B.CJ=s([B.es,null,null,B.i4],t.L)
 B.Dk=s([B.bN,null,null,B.dj],t.L)
-B.Eg=s([B.i_,null,null,B.i5],t.L)
+B.Eh=s([B.i_,null,null,B.i5],t.L)
 B.CQ=s([B.dg,B.dg,B.ey,null],t.L)
 B.Dl=s([B.db,null,null,B.di],t.L)
-B.DU=s([B.dc,null,null,B.dk],t.L)
+B.DV=s([B.dc,null,null,B.dk],t.L)
 B.CR=s([B.ci,B.ci,B.de,null],t.L)
-B.Gg=new A.c5(["*",B.CG,"+",B.E7,"-",B.D5,".",B.DE,"/",B.C6,"0",B.Eq,"1",B.Ek,"2",B.CL,"3",B.Ez,"4",B.Ei,"5",B.CK,"6",B.Cb,"7",B.CU,"8",B.E8,"9",B.Ed,"Alt",B.CO,"AltGraph",B.Er,"ArrowDown",B.Dg,"ArrowLeft",B.Dh,"ArrowRight",B.Di,"ArrowUp",B.Ey,"Clear",B.Ef,"Control",B.CP,"Delete",B.DP,"End",B.Dj,"Enter",B.CJ,"Home",B.Dk,"Insert",B.Eg,"Meta",B.CQ,"PageDown",B.Dl,"PageUp",B.DU,"Shift",B.CR],A.aj("c5<B,I<e?>>"))
+B.Gg=new A.c5(["*",B.CG,"+",B.E8,"-",B.D5,".",B.DF,"/",B.C6,"0",B.Eq,"1",B.El,"2",B.CL,"3",B.Ez,"4",B.Ej,"5",B.CK,"6",B.Cb,"7",B.CU,"8",B.E9,"9",B.Ee,"Alt",B.CO,"AltGraph",B.Er,"ArrowDown",B.Dg,"ArrowLeft",B.Dh,"ArrowRight",B.Di,"ArrowUp",B.Ey,"Clear",B.Eg,"Control",B.CP,"Delete",B.DQ,"End",B.Dj,"Enter",B.CJ,"Home",B.Dk,"Insert",B.Eh,"Meta",B.CQ,"PageDown",B.Dl,"PageUp",B.DV,"Shift",B.CR],A.aj("c5<B,I<e?>>"))
 B.GR={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.qh=new A.bA(B.GR,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.li)
 B.GO={Abort:0,Again:1,AltLeft:2,AltRight:3,ArrowDown:4,ArrowLeft:5,ArrowRight:6,ArrowUp:7,AudioVolumeDown:8,AudioVolumeMute:9,AudioVolumeUp:10,Backquote:11,Backslash:12,Backspace:13,BracketLeft:14,BracketRight:15,BrightnessDown:16,BrightnessUp:17,BrowserBack:18,BrowserFavorites:19,BrowserForward:20,BrowserHome:21,BrowserRefresh:22,BrowserSearch:23,BrowserStop:24,CapsLock:25,Comma:26,ContextMenu:27,ControlLeft:28,ControlRight:29,Convert:30,Copy:31,Cut:32,Delete:33,Digit0:34,Digit1:35,Digit2:36,Digit3:37,Digit4:38,Digit5:39,Digit6:40,Digit7:41,Digit8:42,Digit9:43,DisplayToggleIntExt:44,Eject:45,End:46,Enter:47,Equal:48,Escape:49,Esc:50,F1:51,F10:52,F11:53,F12:54,F13:55,F14:56,F15:57,F16:58,F17:59,F18:60,F19:61,F2:62,F20:63,F21:64,F22:65,F23:66,F24:67,F3:68,F4:69,F5:70,F6:71,F7:72,F8:73,F9:74,Find:75,Fn:76,FnLock:77,GameButton1:78,GameButton10:79,GameButton11:80,GameButton12:81,GameButton13:82,GameButton14:83,GameButton15:84,GameButton16:85,GameButton2:86,GameButton3:87,GameButton4:88,GameButton5:89,GameButton6:90,GameButton7:91,GameButton8:92,GameButton9:93,GameButtonA:94,GameButtonB:95,GameButtonC:96,GameButtonLeft1:97,GameButtonLeft2:98,GameButtonMode:99,GameButtonRight1:100,GameButtonRight2:101,GameButtonSelect:102,GameButtonStart:103,GameButtonThumbLeft:104,GameButtonThumbRight:105,GameButtonX:106,GameButtonY:107,GameButtonZ:108,Help:109,Home:110,Hyper:111,Insert:112,IntlBackslash:113,IntlRo:114,IntlYen:115,KanaMode:116,KeyA:117,KeyB:118,KeyC:119,KeyD:120,KeyE:121,KeyF:122,KeyG:123,KeyH:124,KeyI:125,KeyJ:126,KeyK:127,KeyL:128,KeyM:129,KeyN:130,KeyO:131,KeyP:132,KeyQ:133,KeyR:134,KeyS:135,KeyT:136,KeyU:137,KeyV:138,KeyW:139,KeyX:140,KeyY:141,KeyZ:142,KeyboardLayoutSelect:143,Lang1:144,Lang2:145,Lang3:146,Lang4:147,Lang5:148,LaunchApp1:149,LaunchApp2:150,LaunchAssistant:151,LaunchControlPanel:152,LaunchMail:153,LaunchScreenSaver:154,MailForward:155,MailReply:156,MailSend:157,MediaFastForward:158,MediaPause:159,MediaPlay:160,MediaPlayPause:161,MediaRecord:162,MediaRewind:163,MediaSelect:164,MediaStop:165,MediaTrackNext:166,MediaTrackPrevious:167,MetaLeft:168,MetaRight:169,MicrophoneMuteToggle:170,Minus:171,NonConvert:172,NumLock:173,Numpad0:174,Numpad1:175,Numpad2:176,Numpad3:177,Numpad4:178,Numpad5:179,Numpad6:180,Numpad7:181,Numpad8:182,Numpad9:183,NumpadAdd:184,NumpadBackspace:185,NumpadClear:186,NumpadClearEntry:187,NumpadComma:188,NumpadDecimal:189,NumpadDivide:190,NumpadEnter:191,NumpadEqual:192,NumpadMemoryAdd:193,NumpadMemoryClear:194,NumpadMemoryRecall:195,NumpadMemoryStore:196,NumpadMemorySubtract:197,NumpadMultiply:198,NumpadParenLeft:199,NumpadParenRight:200,NumpadSubtract:201,Open:202,PageDown:203,PageUp:204,Paste:205,Pause:206,Period:207,Power:208,PrintScreen:209,PrivacyScreenToggle:210,Props:211,Quote:212,Resume:213,ScrollLock:214,Select:215,SelectTask:216,Semicolon:217,ShiftLeft:218,ShiftRight:219,ShowAllWindows:220,Slash:221,Sleep:222,Space:223,Super:224,Suspend:225,Tab:226,Turbo:227,Undo:228,WakeUp:229,ZoomToggle:230}
@@ -71501,7 +71501,7 @@ B.Hk=new A.ES(0,"nearestOverlay")
 B.Hl=new A.ES(1,"rootOverlay")
 B.B0=new A.aY(24,24,24,24)
 B.OA=new A.k(!0,B.qk,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.P8=new A.fK("v2.0 (165\u554f)",null,B.OA,null,null)
+B.P8=new A.fK("v2.1 (8\u5206\u91ce)",null,B.OA,null,null)
 B.yw=new A.hz(B.a5,null,null,B.P8,null)
 B.Hm=new A.cu(B.B0,B.yw,null)
 B.bq=new A.EX(0,"fill")
@@ -72091,12 +72091,12 @@ B.NU=new A.k(!0,B.z,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Oc=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Lg=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.P7=new A.cP(B.MT,B.LY,B.MU,B.Nr,B.LB,B.LJ,B.Mg,B.Ne,B.Mu,B.NY,B.L6,B.Lr,B.NU,B.Oc,B.Lg)
+B.P9=new A.fK("\u7121\u6a5f\u5316\u5b66 \u6697\u8a18 v2.1",null,null,null,null)
 B.w8=new A.fK("\u30db\u30fc\u30e0\u306b\u623b\u308b",null,null,null,null)
 B.OE=new A.k(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.P9=new A.fK("\u3059\u3079\u3066\u306e\u554f\u984c\u3092\u7d42\u4e86\u3057\u307e\u3057\u305f\uff01",null,B.OE,null,null)
+B.Pa=new A.fK("\u3059\u3079\u3066\u306e\u554f\u984c\u3092\u7d42\u4e86\u3057\u307e\u3057\u305f\uff01",null,B.OE,null,null)
 B.Ot=new A.k(!0,B.dm,null,null,null,null,null,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pa=new A.fK("\u5f31\u70b9\u514b\u670d (\u8981\u5fa9\u7fd2)",null,B.Ot,null,null)
-B.Pb=new A.fK("\u7121\u6a5f\u5316\u5b66 \u6697\u8a18 v2.0",null,null,null,null)
+B.Pb=new A.fK("\u5f31\u70b9\u514b\u670d (\u8981\u5fa9\u7fd2)",null,B.Ot,null,null)
 B.OI=new A.k(!0,null,null,null,null,null,16,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Pc=new A.fK("\u6b21\u306e\u554f\u984c",null,B.OI,null,null)
 B.Pd=new A.fK("\u6b63\u89e3\u306f...",null,B.w6,null,null)
