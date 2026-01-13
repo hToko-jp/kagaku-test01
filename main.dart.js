@@ -65749,7 +65749,7 @@ if(r){if(q.a.d==="Review Weak Points")q.gqg().io($.By().gBn(),t.bd).qi(s.a)}else
 $S:0}
 A.DL.prototype={
 pb(a,b){var s=b.vG($.By(),t.qO),r=A.a_(a).ax,q=r.y2
-return A.ajR(A.aha(q==null?r.c:q,B.P8),A.ahe(s,new A.Uy(),new A.Uz(),new A.UA()))}}
+return A.ajR(A.aha(q==null?r.c:q,B.Pb),A.ahe(s,new A.Uy(),new A.Uz(),new A.UA()))}}
 A.Uy.prototype={
 $1(a){var s,r,q,p,o=A.u(t.N,t.S)
 for(s=J.c2(a),r=s.gS(a);r.n();){q=r.gI().e
@@ -71501,8 +71501,8 @@ B.Hk=new A.ES(0,"nearestOverlay")
 B.Hl=new A.ES(1,"rootOverlay")
 B.B0=new A.aY(24,24,24,24)
 B.OA=new A.k(!0,B.qk,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Pb=new A.fK("v1.9 (Maximum Text)",null,B.OA,null,null)
-B.yw=new A.hz(B.a5,null,null,B.Pb,null)
+B.P8=new A.fK("v2.0 (165\u554f)",null,B.OA,null,null)
+B.yw=new A.hz(B.a5,null,null,B.P8,null)
 B.Hm=new A.cu(B.B0,B.yw,null)
 B.bq=new A.EX(0,"fill")
 B.aZ=new A.EX(1,"stroke")
@@ -72091,12 +72091,12 @@ B.NU=new A.k(!0,B.z,null,".AppleSystemUIFont",null,null,null,null,null,null,null
 B.Oc=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Lg=new A.k(!0,B.m,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
 B.P7=new A.cP(B.MT,B.LY,B.MU,B.Nr,B.LB,B.LJ,B.Mg,B.Ne,B.Mu,B.NY,B.L6,B.Lr,B.NU,B.Oc,B.Lg)
-B.P8=new A.fK("\u7121\u6a5f\u5316\u5b66 \u6697\u8a18 v1.9",null,null,null,null)
 B.w8=new A.fK("\u30db\u30fc\u30e0\u306b\u623b\u308b",null,null,null,null)
 B.OE=new A.k(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.P9=new A.fK("\u3059\u3079\u3066\u306e\u554f\u984c\u3092\u7d42\u4e86\u3057\u307e\u3057\u305f\uff01",null,B.OE,null,null)
 B.Ot=new A.k(!0,B.dm,null,null,null,null,null,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Pa=new A.fK("\u5f31\u70b9\u514b\u670d (\u8981\u5fa9\u7fd2)",null,B.Ot,null,null)
+B.Pb=new A.fK("\u7121\u6a5f\u5316\u5b66 \u6697\u8a18 v2.0",null,null,null,null)
 B.OI=new A.k(!0,null,null,null,null,null,16,B.bp,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Pc=new A.fK("\u6b21\u306e\u554f\u984c",null,B.OI,null,null)
 B.Pd=new A.fK("\u6b63\u89e3\u306f...",null,B.w6,null,null)
